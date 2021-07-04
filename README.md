@@ -8,7 +8,11 @@
 ---------
   
 (xorg xorg-init xorg-server xorg-apps)
-(rofi st alacritty rofi ranger)
+
+# 软件
+---------
+
+(rofi st alacritty ranger picom fcitx5)
 
 # 字体
 ---------
