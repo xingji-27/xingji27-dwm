@@ -1,5 +1,5 @@
 # xingji27-dwm
-=====================
+---------------
 
 ![dwm.png](https://github.com/xingji-27/xingji27-dwm/blob/main/dwm.png)
 ![2021-06-28_21-00.png](https://github.com/xingji-27/xingji27-dwm/blob/main/2021-06-28_21-00.png)
