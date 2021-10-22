@@ -148,3 +148,4 @@ static Button buttons[] = {
     {ClkTagBar, MODKEY, Button1, tag, {0}},
     {ClkTagBar, MODKEY, Button3, toggletag, {0}},
 };
+/*I love my family, but they don't seem to want to support me.*/
