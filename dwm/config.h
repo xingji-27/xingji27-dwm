@@ -47,6 +47,7 @@ static const Rule rules[] = {
      */
     {"Gimp", NULL, NULL, 0, 1, -1},
 };
+/*別翻了，下面沒有註釋，自己琢磨去吧*/
 
 /* layout(s) */
 static const float mfact = 0.5; /* factor of master area size [0.05..0.95] */
